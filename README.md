@@ -1,6 +1,9 @@
-Boilerplate
+# Boilerplate
 
-"svelte": "^4.2.18",
-"tailwindcss": "^3.4.10",
-"typescript": "^5.5.4",
-"webpack": "^5.93.0",
+Svelte: v4.2
+
+Tailwindcss: v3.4
+
+Typescript: v5.5
+
+Webpack: v5.93
